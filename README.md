@@ -1,6 +1,8 @@
 # project_barbershop_dartweek
 
-A new Flutter project.
+Projeto de uma barbearia onde o adm pode agendar seus atendimentos ou gerenciar os agendamentos de seus colaboradores, e o colocaborador pode gerenciar seus agendamentos.
+
+Projeto esta incompleto pois foi feito somente durante a semana dartweek 11.
 
 ## Getting Started
 
